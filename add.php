@@ -7,7 +7,11 @@
 	<a href="index.php">Go to Home</a>
 	<br/><br/>
  
+
+	<div class="class="href-target" id="input-typ
+         <h1>Add New User From</h1>
 	<form action="add.php" method="post" name="form1">
+		<h1>Add New User From</h1>
 		<table width="25%" border="0">
 			<tr> 
 				<td>Name</td>
